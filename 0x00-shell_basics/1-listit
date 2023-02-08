@@ -1,2 +1,1 @@
-#!/bin/bash 
- pwd
+echo -e #!/bin/bash \n ls
