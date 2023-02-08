@@ -1,1 +1,2 @@
-echo -e #!/bin/bash \n ls
+#!/bin/bash 
+ ls
